@@ -1,6 +1,6 @@
 var main = document.getElementsByClassName('main');
 // main[0].innerHTML = "<p>Learning JavaScript</p>";
-main[0].insertAdjacentHTML('afterbegin', "<p>Learning JavaAcript</p>");
+main[0].insertAdjacentHTML('afterbegin', "<p>Learning JavaScript</p>");
 
 function sample() {
   console.log("これはJavaScriptのサンプルです。");
